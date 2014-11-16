@@ -1,0 +1,7 @@
+{
+	"name": "Capit Software - Node.js",
+	"description": "Capit Software on Node.js Backend",
+	"repository": "https://github.com/Wehttam664/capit-node",
+	"logo": "http://capit.me/favicon.ico",
+	"keywords": ["node", "express", "static"]
+}
