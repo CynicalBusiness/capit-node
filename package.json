@@ -1,6 +1,6 @@
 {
 	"name": "capit-node",
-	"version": "1.00-R01",
+	"version": "0.1.0",
 	"description": "Capit Software on Node.js",
 	"main": "index.js",
 	"scripts": {
