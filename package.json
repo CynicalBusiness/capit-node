@@ -1,0 +1,26 @@
+{
+	"name": "capit-node",
+	"version": "1.00-R01",
+	"description": "Capit Software on Node.js",
+	"main": index.js,
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"pg": "2.x",
+		"express": "~4.9.x"
+	},
+	"engines": {
+		"node": "0.10.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Wehttam664/capit-node"
+	},
+	"keywords": [
+		"node",
+		"heroku",
+		"express"
+	],
+	"license": "MIT"
+}
